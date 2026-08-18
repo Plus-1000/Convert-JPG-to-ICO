@@ -33,7 +33,7 @@ The coordinates of the points will be stored in a txt file "exported points.txt"
 <br/>
 <br/>
 <p align="center">
-<img src=https://github.com/Plus-1000/Convert-JPG-to-ICO/blob/main/pic/Run%20app.jpg length="150">
+<img src=https://github.com/Plus-1000/Convert-JPG-to-ICO/blob/main/pic/Run%20app.jpg length="100">
 </p>
 
 <br/>
