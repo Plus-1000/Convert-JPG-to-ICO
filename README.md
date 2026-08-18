@@ -3,15 +3,6 @@ Convert JPG images into ICO icons
 
 If you don’t have a suitable shortcut icon, you can design one in PPT and convert it. Online tools work, but using Python is simpler and safer for personal use.
 
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=nmtSOpe3bGA 
-" target="_blank"><img src="http://img.youtube.com/vi/nmtSOpe3bGA /0.jpg" 
-alt="MOVIE" width="240" height="180" border="10" /></a>
-
-
-
-
-The coordinates of the points will be stored in a txt file "exported points.txt", it is in the same folder as NX part file.
 <br/>
 <br/>
 ## How it works
