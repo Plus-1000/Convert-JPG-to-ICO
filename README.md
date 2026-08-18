@@ -25,7 +25,7 @@ The coordinates of the points will be stored in a txt file "exported points.txt"
 
 2. Save it as JPG.
 <p align="center">
-<img src=https://github.com/Plus-1000/Convert-JPG-to-ICO/blob/main/pic/Design%20icon%20with%20PPT.jpg length="150">
+<img src=https://github.com/Plus-1000/Convert-JPG-to-ICO/blob/main/pic/Save%20as%20JPT.jpg length="150">
 </p>
 
 <br/>
@@ -33,7 +33,17 @@ The coordinates of the points will be stored in a txt file "exported points.txt"
 <br/>
 <br/>
 <p align="center">
-<img src=https://github.com/Plus-1000/Convert-JPG-to-ICO/blob/main/pic/Design%20icon%20with%20PPT.jpg length="150">
+<img src=https://github.com/Plus-1000/Convert-JPG-to-ICO/blob/main/pic/Run%20icon%app.jpg length="150">
+</p>
+
+<br/>
+
+
+4. Icon file converted.
+<br/>
+<br/>
+<p align="center">
+<img src=https://github.com/Plus-1000/Convert-JPG-to-ICO/blob/main/pic/Icon%20files%converted.jpg length="150">
 </p>
 
 <br/>
