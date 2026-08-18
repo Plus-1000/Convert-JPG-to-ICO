@@ -1,8 +1,7 @@
 # Convert-JPG-to-ICO
 Convert JPG images into ICO icons
 
-
-When we need a point set of a surface for testing purposes, we can create it within NX CADCAM and then export the points to a txt or csv file. This NX Open script is designed to create a point set on a NX surface with just a few clicks, as demonstrated in the video.
+If you don’t have a shortcut icon, you can design one in PPT and convert it. Online tools work, but using Python is simpler and safer for personal use.
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nmtSOpe3bGA 
