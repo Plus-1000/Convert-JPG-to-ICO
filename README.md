@@ -1,7 +1,7 @@
 # Convert-JPG-to-ICO
 Convert JPG images into ICO icons
 
-If you don’t have a shortcut icon, you can design one in PPT and convert it. Online tools work, but using Python is simpler and safer for personal use.
+If you don’t have a suitable shortcut icon, you can design one in PPT and convert it. Online tools work, but using Python is simpler and safer for personal use.
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nmtSOpe3bGA 
